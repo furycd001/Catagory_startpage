@@ -1,2 +1,3 @@
 # Catagory_startpage
 Browser startpage with links in Catagorys...
+![STARBUCKS](starbucks.jpg)
